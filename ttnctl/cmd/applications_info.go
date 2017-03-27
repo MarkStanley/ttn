@@ -88,6 +88,9 @@ Collaborators:
 		}
 		fmt.Println()
 
+		fmt.Println("Allowing unregistered devices:", app.AllowUnregisteredDevices)
+		fmt.Println()
+
 	},
 }
 
